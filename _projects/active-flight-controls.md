@@ -2,7 +2,13 @@
 layout: post
 title: "Active Flight Controls Research"
 description: "$11,500 funded research project developing PID-based roll-control algorithms for rocket applications"
-skills: "Control Systems Engineering, Algorithm Development, Prototype Development, Research Methodology, Testing & Validation, Grant Writing"
+skills:
+  - Control Systems Engineering
+  - Algorithm Development
+  - Prototype Development
+  - Research Methodology
+  - Testing & Validation
+  - Grant Writing
 main-image: /assets/flight-controls/main-image.webp
 repository: https://github.com/pierre-arbaji/active-flight-controls
 status: "Completed - Published Results"
