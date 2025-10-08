@@ -1,4 +1,4 @@
-# Your Name: Engineering Portfolio
+# Pierre ARBADJI: Engineering Portfolio
 
 Welcome to my engineering portfolio! Here you'll find selected projects, my skills, résumé, and contact options. I am passionate about delivering innovative engineering solutions and enjoy working on challenging, technical problems.
 
