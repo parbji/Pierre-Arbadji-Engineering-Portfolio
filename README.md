@@ -24,7 +24,7 @@ Welcome to my engineering portfolio! Here you'll find selected projects, my skil
 
 | Category         | Tools/Technologies                                |
 |------------------|--------------------------------------------------|
-| 3D Modeling & Design | SolidWorks, Onshape, AutoCAD, Fusion 360          |
+| 3D Modeling & Design | Siemens NX, SolidWorks, Onshape, AutoCAD, Fusion 360          |
 | Programming         | Python, MATLAB, C/C++, Arduino, Simulink         |
 | Simulation & Analysis | ANSYS, COMSOL, FEA, CFD                        |
 | Prototyping         | CNC, FDM, SLA, SLS, DMLS, Vacuum Casting         |
