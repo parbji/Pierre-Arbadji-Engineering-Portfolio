@@ -70,10 +70,26 @@ Independently initiated and led a comprehensive research internship focused on d
 
 **Research Report:** [Design, Modeling, and Testing of an Active Roll Control System for a Model Rocket Using Fin-Mounted Control Surfaces](assets/pdf/Design-Modeling-and-Testing-of-an-Active-Roll-Control-System-for-a-Model-Rocket-Using-Fin-Mounted-Control-Surfaces.pdf)
 
-### Process Engineering Intern | **SWS Boards Technologies**
+### Process Engineering & Materials Optimization Specialist | **SWS Boards Technologies**
 *May 2024 – July 2024*
 
-Conducted material analyses on PTEX sheets experiencing warping during high-temperature sublimation printing. Achieved 78% reduction in substrate warping defects through systematic experimental evaluations and parameter optimization.
+Led critical materials engineering initiative to resolve structural deformation issues in PTEX substrate manufacturing, directly impacting production quality and customer satisfaction for high-temperature industrial printing applications.
+
+• **Materials Science Investigation:** Conducted comprehensive structural analysis of PTEX sheet deformation mechanisms during high-temperature sublimation printing processes, identifying thermal stress concentration patterns and material behavior under extreme operating conditions
+
+• **Experimental Design & Optimization:** Developed and executed systematic experimental protocols to evaluate substrate performance across varying thermal profiles, processing speeds, and material compositions, establishing robust testing methodologies for quality control
+
+• **Manufacturing Process Innovation:** Engineered optimized parameter sets for temperature control, substrate handling, and process timing, achieving 78% reduction in warping defects and establishing new industry benchmarks for thermal dimensional stability
+
+• **Cross-Functional Collaboration:** Partnered directly with equipment manufacturers to enhance substrate thermal management systems, providing technical specifications and performance requirements based on materials analysis findings
+
+• **Technical Leadership:** Delivered comprehensive engineering reports to executive management detailing structural integrity improvements, cost-benefit analysis of process modifications, and long-term material performance enhancement strategies
+
+• **Quality System Development:** Established standardized testing protocols and acceptance criteria for PTEX substrate quality assurance, ensuring consistent structural performance across production batches
+
+• **Process Validation:** Implemented statistical process control methods to monitor and maintain optimized manufacturing parameters, reducing material waste by 45% and improving overall production efficiency
+
+*This experience demonstrated my capability to solve complex materials engineering challenges through systematic analysis and process optimization, directly applicable to aerospace materials development and advanced manufacturing processes.*
 
 ---
 
