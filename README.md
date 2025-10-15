@@ -8,7 +8,7 @@ Welcome to my engineering portfolio! I'm a fourth-year Mechanical Engineering st
 
 **Aerospace Engineer | Team Leader | Problem Solver**
 
-Fourth-year polyglot Mechanical Engineering student specializing in aerospace structures and flight control systems. Currently leading teams of 50+ students while developing cutting-edge rocket technologies and gaining industry experience at Airbus. Passionate about structural optimization, control systems, and pushing the boundaries of aerospace engineering.
+Fourth-year polyglot Mechanical Engineering student specializing in aerospace structures and flight control systems. Currently leading teams of 50+ students while developing cutting-edge rocket technologies and gaining industry experience at Airbus. Passionate about mechanical design, structural optimization, control systems, and pushing the boundaries of aerospace engineering.
 
 ---
 
