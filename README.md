@@ -58,6 +58,8 @@ Currently supporting the A220 (A2X) convergence program by structuring and conso
 
 Independently initiated and led a comprehensive research internship focused on developing active flight control systems for small-scale rockets. Successfully secured $11,500 in research funding and delivered validated PID-based roll-control algorithms with functional prototype demonstration. Developed mathematical models for roll-axis dynamics and created hardware test systems for validation.
 
+**Research Report:** [Design, Modeling, and Testing of an Active Roll Control System for a Model Rocket Using Fin-Mounted Control Surfaces](assets/pdf/Design-Modeling-and-Testing-of-an-Active-Roll-Control-System-for-a-Model-Rocket-Using-Fin-Mounted-Control-Surfaces.pdf)
+
 ### Process Engineering Intern | **SWS Boards Technologies**
 *May 2024 – July 2024*
 
