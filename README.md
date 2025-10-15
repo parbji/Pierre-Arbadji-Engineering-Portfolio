@@ -79,7 +79,7 @@ Led critical materials engineering initiative to resolve structural deformation 
 
 • **Experimental Design & Optimization:** Developed and executed systematic experimental protocols to evaluate substrate performance across varying thermal profiles, processing speeds, and material compositions, establishing robust testing methodologies for quality control
 
-• **Manufacturing Process Innovation:** Engineered optimized parameter sets for temperature control, substrate handling, and process timing, achieving 78% reduction in warping defects and establishing new industry benchmarks for thermal dimensional stability
+• **Manufacturing Process Innovation:** Engineered optimized parameter sets for temperature control, substrate handling, and process timing, achieving 80% reduction in warping defects and establishing new industry benchmarks for thermal dimensional stability
 
 • **Cross-Functional Collaboration:** Partnered directly with equipment manufacturers to enhance substrate thermal management systems, providing technical specifications and performance requirements based on materials analysis findings
 
