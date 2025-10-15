@@ -48,7 +48,7 @@ Fourth-year polyglot Mechanical Engineering student specializing in aerospace st
 
 ## Professional Experience
 
-### Aerostructure Program Integration Manager | **Airbus**
+### Aerostructure Operational Support Interm | **Airbus**
 *September 2025 – December 2025*
 
 Leading cross-functional program management for the A220 (A2X) convergence initiative, orchestrating engineering data integration across six international manufacturing sites (Germany, Canada, France, UK, Spain, China). Architected comprehensive engineering dashboards that provide real-time visibility into aerostructure design performance and manufacturing efficiency.
@@ -70,7 +70,7 @@ Independently initiated and led a comprehensive research internship focused on d
 
 **Research Report:** [Design, Modeling, and Testing of an Active Roll Control System for a Model Rocket Using Fin-Mounted Control Surfaces](assets/pdf/Design-Modeling-and-Testing-of-an-Active-Roll-Control-System-for-a-Model-Rocket-Using-Fin-Mounted-Control-Surfaces.pdf)
 
-### Process Engineering & Materials Optimization Specialist | **SWS Boards Technologies**
+### Process Engineering Intern | **SWS Boards Technologies**
 *May 2024 – July 2024*
 
 Led critical materials engineering initiative to resolve structural deformation issues in PTEX substrate manufacturing, directly impacting production quality and customer satisfaction for high-temperature industrial printing applications.
