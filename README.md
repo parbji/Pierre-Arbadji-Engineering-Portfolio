@@ -170,28 +170,6 @@ Led critical materials engineering initiative to resolve structural deformation 
 
 ---
 
-## Key Achievements
-
-- **Co-Founded Startup:** Polaris Flight - developing advanced flight control systems
-- **$11,500 Research Funding:** Secured funding for Active Flight Controls internship
-- **78% Defect Reduction:** Achieved significant improvement in manufacturing process optimization
-- **30% Weight Reduction:** Accomplished through structural optimization while maintaining integrity
-- **International Experience:** Working across 6 countries in Airbus A220 convergence program
-- **Polyglot Engineer:** Fluent in 5 languages enabling global collaboration
-
----
-
-## Additional Information
-
-- **Research Interests:** Flight control systems, structural optimization, advanced materials
-- **Industry Experience:** Aerospace (Airbus), Manufacturing (SWS Boards Technologies)
-- **Startup Experience:** Co-founder of Polaris Flight developing aerospace technologies
-- **Certifications:** *[Add any relevant certifications]*
-- **Professional Development:** *[Add workshops, courses, conferences attended]*
-- **Awards & Honors:** *[Add as earned]*
-
----
-
 ## Portfolio Development
 
 This portfolio showcases my journey from mechanical engineering fundamentals to specialized aerospace applications and entrepreneurship. Each project demonstrates progression in technical complexity, leadership responsibility, and industry relevance. 
