@@ -53,6 +53,11 @@ Fourth-year polyglot Mechanical Engineering student specializing in aerospace st
 
 Currently supporting the A220 (A2X) convergence program by structuring and consolidating engineering data across multiple international sites. Developing engineering dashboards for aerostructure project monitoring and defining KPIs for structural and production objectives.
 
+### Active Flight Controls Research Intern | **McGill EUS**
+*May 2025 – August 2025*
+
+Independently initiated and led a comprehensive research internship focused on developing active flight control systems for small-scale rockets. Successfully secured $11,500 in research funding and delivered validated PID-based roll-control algorithms with functional prototype demonstration. Developed mathematical models for roll-axis dynamics and created hardware test systems for validation.
+
 ### Process Engineering Intern | **SWS Boards Technologies**
 *May 2024 – July 2024*
 
@@ -62,47 +67,65 @@ Conducted material analyses on PTEX sheets experiencing warping during high-temp
 
 ## Portfolio Projects
 
-### **Project 1: Polaris Flight - Custom Flight Control System**
+> Explore detailed writeups, technical reports, and documentation for each of my engineering projects.
+
+### **Project 1: Polaris Flight - Custom 3-Axis Flight Control System**
 **Co-Founder & Mechanical Lead | September 2025 – Present**
 
-- **Description:** Designed complete rocket airframe to validate custom 3-axis PID flight controller with servo-actuated control surfaces
-- **Skills Highlighted:** Aerodynamics, Control Systems, CAD Modeling, FEA, System Integration
-- **Key Results:** Optimized for aerodynamic efficiency, structural integrity, and control authority
+- **Description:** Co-founded startup developing complete rocket system with proprietary 3-axis PID flight controller using servo-actuated control surfaces
+- **Skills Highlighted:** Aerodynamics, Control Systems, CAD Modeling, FEA, System Integration, Startup Leadership
+- **Key Results:** Designed complete airframe optimized for aerodynamic efficiency, structural integrity, and control authority
 - **Status:** Transitioning from design to fabrication phase
-- **Main Image:** *[Add project image to assets/polaris-flight/]*
+- **Repository:** [View Project Details](_projects/polaris-flight.md)
 
 ---
 
-### **Project 2: Active Flight Controls Research**
-**Undergraduate Researcher | McGill EUS | May 2025 – August 2025**
-
-- **Description:** Secured $11,500 funding to develop PID-based roll-control algorithm for rocket applications
-- **Skills Highlighted:** Controls Engineering, Algorithm Development, Prototype Development, Testing
-- **Key Results:** Successfully validated roll-control effectiveness through simulation and ground testing
-- **Repository:** *[Add repository link]*
-- **Main Image:** *[Add project image to assets/flight-controls/]*
-
----
-
-### **Project 3: Aerostructures Optimization**
+### **Project 2: Aerostructures Optimization & Team Leadership**
 **McGill Rocket Team - Aerostructures Subteam Lead | May 2025 – Present**
 
-- **Description:** Leading 50-student team in aerospace structural component design and optimization
-- **Skills Highlighted:** Topology Optimization, FEA, Team Leadership, Composites Manufacturing
+- **Description:** Leading 50-student team in aerospace structural component design and optimization using advanced topology optimization
+- **Skills Highlighted:** Topology Optimization, FEA, Team Leadership, Composites Manufacturing, Project Management
 - **Key Results:** Achieved 30% weight reduction while maintaining structural integrity using Siemens NX
-- **Repository:** *[Add repository link]*
-- **Main Image:** *[Add project image to assets/aerostructures/]*
+- **Status:** Ongoing leadership role with multiple concurrent projects
+- **Repository:** [View Project Details](_projects/aerostructures-leadership.md)
 
 ---
 
-### **Project 4: Materials Process Optimization**
-*Available Soon - Advanced composites manufacturing project*
+### **Project 3: Auxiliary Transmission Gearbox for Small Aircraft**
+**MECH 393 Design 2 Project | January 2025 – April 2025**
 
-### **Project 5: Propulsion System Integration**
-*Available Soon - Rocket propulsion system design*
+- **Description:** Preliminary design of double-branch, double-reduction gearbox transmitting 1,050 hp from turbine to propeller
+- **Skills Highlighted:** Gear Train Design (AGMA), Shaft & Bearing Sizing, Weight Optimization, SolidWorks Assembly
+- **Key Results:** Created 6-gear, 2-stage reduction system meeting 30,000h gear life and 10,000h bearing life standards
+- **Status:** Completed - 831 lb concept with full technical drawings
+- **Repository:** [View Project Details](_projects/aircraft-gearbox.md) | [Technical Report PDF](assets/pdf/Preliminary-Design-of-an-Auxiliary-Transmission-Box.pdf)
 
-### **Project 6: Autonomous Flight Systems**
-*Available Soon - AI-enhanced flight control development*
+---
+
+### **Project 4: Structural Bracket Design & FEA Validation**
+**MECH 321 Project | January 2025 – April 2025**
+
+- **Description:** Laser-cut acrylic bracket optimized for 300 N stiffness at 0.7 mm deflection while minimizing weight
+- **Skills Highlighted:** Finite Element Analysis, Experimental Validation, Manufacturing Constraints, Acrylic Fabrication
+- **Key Results:** Achieved experimental load capacity of 633 N (double theoretical requirement) with 30% mass savings
+- **Status:** Completed with full design-test validation cycle
+- **Repository:** [View Project Details](_projects/structural-bracket.md) | [Technical Report PDF](assets/pdf/Design-and-Analysis-of-a-Structural-Bracket.pdf)
+
+---
+
+### **Project 5: Motorcycle Safety Dashboard System**
+**MECH 292 Conceptual Design Project | January 2025 – March 2025**
+
+- **Description:** Conceptual design of dashboard-mounted screen detecting road hazards in real-time with clear visual rider warnings
+- **Skills Highlighted:** Human-Factors Engineering, Sensor Integration, Safety Systems Design, Concept Evaluation
+- **Key Results:** Selected optimal concept through house-of-quality, morphological charts, and Pugh matrix analysis
+- **Status:** Completed concept stage with bill of materials and interface specifications
+- **Repository:** [View Project Details](_projects/motorcycle-dashboard.md) | [Design Report PDF](assets/pdf/Conceptual-design-report.pdf)
+
+---
+
+### **Project 6: Future Advanced Project**
+*Available Soon - Space for next engineering breakthrough*
 
 ---
 
@@ -121,7 +144,8 @@ Conducted material analyses on PTEX sheets experiencing warping during high-temp
 
 ## Key Achievements
 
-- **$11,500 Research Funding:** Secured funding for Active Flight Controls project
+- **Co-Founded Startup:** Polaris Flight - developing advanced flight control systems
+- **$11,500 Research Funding:** Secured funding for Active Flight Controls internship
 - **78% Defect Reduction:** Achieved significant improvement in manufacturing process optimization
 - **30% Weight Reduction:** Accomplished through structural optimization while maintaining integrity
 - **International Experience:** Working across 6 countries in Airbus A220 convergence program
@@ -133,6 +157,7 @@ Conducted material analyses on PTEX sheets experiencing warping during high-temp
 
 - **Research Interests:** Flight control systems, structural optimization, advanced materials
 - **Industry Experience:** Aerospace (Airbus), Manufacturing (SWS Boards Technologies)
+- **Startup Experience:** Co-founder of Polaris Flight developing aerospace technologies
 - **Certifications:** *[Add any relevant certifications]*
 - **Professional Development:** *[Add workshops, courses, conferences attended]*
 - **Awards & Honors:** *[Add as earned]*
@@ -141,7 +166,7 @@ Conducted material analyses on PTEX sheets experiencing warping during high-temp
 
 ## Portfolio Development
 
-This portfolio showcases my journey from mechanical engineering fundamentals to specialized aerospace applications. Each project demonstrates progression in technical complexity, leadership responsibility, and industry relevance. 
+This portfolio showcases my journey from mechanical engineering fundamentals to specialized aerospace applications and entrepreneurship. Each project demonstrates progression in technical complexity, leadership responsibility, and industry relevance. 
 
 Built using modern web technologies for optimal performance and accessibility. Contributions and collaboration opportunities welcome!
 
