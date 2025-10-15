@@ -51,9 +51,9 @@ Fourth-year polyglot Mechanical Engineering student specializing in aerospace st
 ### Aerostructure Program Integration Manager | **Airbus**
 *September 2025 – December 2025*
 
-Leading cross-functional program management for the A220 (A2X) convergence initiative, orchestrating structural engineering data integration across six international manufacturing sites (Germany, Canada, France, UK, Spain, China). Architected comprehensive engineering dashboards that provide real-time visibility into aerostructure design performance and manufacturing efficiency, directly supporting $2B+ aircraft program objectives.
+Leading cross-functional program management for the A220 (A2X) convergence initiative, orchestrating engineering data integration across six international manufacturing sites (Germany, Canada, France, UK, Spain, China). Architected comprehensive engineering dashboards that provide real-time visibility into aerostructure design performance and manufacturing efficiency.
 
-• **Strategic KPI Development:** Defined and implemented structural performance metrics linking design optimization to production targets, enabling data-driven decision making for global aerospace supply chain management
+• **Strategic KPI Development:** Defined and implemented performance metrics linking design optimization to production targets, enabling data-driven decision making for global aerospace supply chain management
 
 • **Process Innovation Leadership:** Developed improvement roadmaps for large-scale aerostructure integration processes, identifying operational efficiencies that enhance structural component delivery timelines
 
@@ -61,7 +61,7 @@ Leading cross-functional program management for the A220 (A2X) convergence initi
 
 • **Executive Reporting:** Delivered strategic insights to senior leadership on aerostructure program performance, structural design trends, and manufacturing optimization opportunities
 
-*This role bridges my technical expertise in structural analysis with strategic program management capabilities, preparing me for senior positions in aerospace structural design and advanced materials program leadership.*
+*This role bridges my technical expertise with strategic program management capabilities, preparing me for senior positions in engineering leadership.*
 
 ### Active Flight Controls Research Intern | **McGill EUS**
 *May 2025 – August 2025*
