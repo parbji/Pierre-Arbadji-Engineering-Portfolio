@@ -18,7 +18,7 @@ team-size: "50 students"
 
 # Aerostructures Optimization & Team Leadership
 
-As the Aerostructures Subteam Lead for the McGill Rocket Team, I drive the entire lifecycle of advanced aerospace structural designs,from initial concept, CAD modeling, materials selection, FEA validation, to final manufacturing and integration in competition rockets. I lead a team of 50+ students and coordinate our efforts across multiple concurrent projects, guiding technical development, mentoring members, and setting the foundation for high-reliability, manufacturable structures.
+As the Aerostructures Subteam Lead for the McGill Rocket Team, I drive the entire lifecycle of advanced aerospace structural designs, from initial concept, CAD modeling, materials selection, FEA validation, to final manufacturing and integration in competition rockets. I lead a team of 50+ students and coordinate our efforts across multiple concurrent projects, guiding technical development, mentoring members, and setting the foundation for high-reliability, manufacturable structures.
 
 ## Programmatic Vision & Team Impact
 
