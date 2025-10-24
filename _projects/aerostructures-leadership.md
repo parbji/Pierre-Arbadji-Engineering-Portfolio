@@ -18,7 +18,7 @@ team-size: "50 students"
 
 # Aerostructures Optimization & Team Leadership
 
-As the Aerostructures Subteam Lead for the McGill Rocket Team, I drive the entire lifecycle of advanced aerospace structural designs—from initial concept, CAD modeling, materials selection, FEA validation, to final manufacturing and integration in competition rockets. I lead a team of 50+ students and coordinate our efforts across multiple concurrent projects, guiding technical development, mentoring members, and setting the foundation for high-reliability, manufacturable structures.
+As the Aerostructures Subteam Lead for the McGill Rocket Team, I drive the entire lifecycle of advanced aerospace structural designs,from initial concept, CAD modeling, materials selection, FEA validation, to final manufacturing and integration in competition rockets. I lead a team of 50+ students and coordinate our efforts across multiple concurrent projects, guiding technical development, mentoring members, and setting the foundation for high-reliability, manufacturable structures.
 
 ## Programmatic Vision & Team Impact
 
@@ -26,7 +26,7 @@ My leadership revolves around building high-performing teams, implementing rigor
 
 ## Coupling System Innovation: Design, Assembly & Structural Validation
 
-A standout achievement is the design and qualification of a new primary coupling system to join large-diameter carbon fiber rocket tubes. Previously, coupling required drilling and aligning 16 or more holes through composite tubes—a process prone to tooling errors, lost concentricity, and significant manufacturing downtime. 
+A standout achievement is the design and qualification of a new primary coupling system to join large-diameter carbon fiber rocket tubes. Previously, coupling required drilling and aligning 16 or more holes through composite tubes,a process prone to tooling errors, lost concentricity, and significant manufacturing downtime. 
 
 My solution is a precision-machined coupling ring that eliminates error-prone drilling and fastener alignment:
 
@@ -50,7 +50,7 @@ My solution is a precision-machined coupling ring that eliminates error-prone dr
 
 ## Advanced FEA: Tension & Compression
 
-To validate this innovation, I performed extensive FEA (Finite Element Analysis) for both tension and compression on the coupling system. Simulations confirmed that all load paths, fastener stresses, adhesive interfaces, and tube join lines met or exceeded required factors of safety for launch environments. The new system maintains perfect tube concentricity—the critical design requirement.
+To validate this innovation, I performed extensive FEA (Finite Element Analysis) for both tension and compression on the coupling system. Simulations confirmed that all load paths, fastener stresses, adhesive interfaces, and tube join lines met or exceeded required factors of safety for launch environments. The new system maintains perfect tube concentricity,the critical design requirement.
 
 ### FEA Results
 
