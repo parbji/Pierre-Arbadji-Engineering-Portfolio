@@ -50,25 +50,25 @@ My solution is a precision-machined coupling ring that eliminates error-prone dr
 
 ## Advanced FEA: Tension & Compression
 
-To validate this innovation, I performed extensive FEA (Finite Element Analysis) for both tension and compression on the coupling system. Simulations confirmed that all load paths, fastener stresses, adhesive interfaces, and tube join lines met or exceeded required factors of safety for launch environments. The new system maintains perfect tube concentricity,the critical design requirement.
+To validate this innovation, I performed extensive FEA (Finite Element Analysis) for both tension and compression on the coupling system. Simulations confirmed that all load paths, fastener stresses, adhesive interfaces, and tube join lines met or exceeded required factors of safety for launch environments. The new system maintains perfect tube concentricity, the critical design requirement. Part of the FEA results have been included below. 
 
 ### FEA Results
 
 ![Tension Analysis Results](../assets/Screenshot-2025-10-24-165057.png)
 
-*Figure 4: Tension analysis showing stress distribution and displacement under maximum tensile loads.*
+*Figure 4: Part Loads and Constraints.*
 
 ![Compression Analysis Results](../assets/Screenshot-2025-10-24-165655.png)
 
-*Figure 5: Compression analysis demonstrating structural integrity under compressive loading conditions.*
+*Figure 5: FEA Stress Results.*
 
 ![Detailed Stress Distribution](../assets/Screenshot-2025-10-24-170527.png)
 
-*Figure 6: Von Mises stress distribution highlighting critical load paths and stress concentrations.*
+*Figure 6: Part Loads and Constraints.*
 
 ![Finite Element Mesh](../assets/Screenshot-2025-10-24-172238.png)
 
-*Figure 7: Finite element mesh showing refined discretization around critical features and fastener locations.*
+*Figure 7: FEA Stress Resulrs.*
 
 ## Leadership Responsibilities
 
