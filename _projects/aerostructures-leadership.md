@@ -17,17 +17,17 @@ My solution is a precision-machined coupling ring that eliminates error-prone dr
 - The screw angles are engineered for optimal load transfer and are designed to safely sustain maximal launch and recovery forces, with a factor of safety >4 for the adhesive and joint, providing conservative reliability for our first use in flight.
 
 *CAD Model examples:*
-![Coupling CAD 1](assets/aerostructures/image-2.jpg)
-![Coupling CAD 2](assets/aerostructures/image-3.jpg)
+![Coupling CAD 1](assets/aerostructures/image-2.png)
+![Coupling CAD 2](assets/aerostructures/image-3.png)
 
 #### Advanced FEA: Tension & Compression
 
 To validate this innovation, I performed extensive FEA (Finite Element Analysis) for both tension and compression on the coupling system. Simulations confirmed that all load paths, fastener stresses, adhesive interfaces, and tube join lines met or exceeded required factors of safety for launch environments. The new system maintains perfect tube concentricity—the critical design requirement.
 
 *FEA and mesh analysis visualizations:*
-![Tension Analysis](assets/aerostructures/Screenshot-2025-10-24-165057.jpg)
-![Compression Analysis](assets/aerostructures/Screenshot-2025-10-24-165655.jpg)
-![Stress Distribution](assets/aerostructures/Screenshot-2025-10-24-170527.jpg)
+![Tension Analysis](assets/aerostructures/Screenshot-2025-10-24-165057.png)
+![Compression Analysis](assets/aerostructures/Screenshot-2025-10-24-165655.png)
+![Stress Distribution](assets/aerostructures/Screenshot-2025-10-24-170527.png)
 ![Mesh 1](assets/aerostructures/Screenshot-2025-10-24-172238.jpg)
 
 #### Broader Structural Initiatives & Leadership
