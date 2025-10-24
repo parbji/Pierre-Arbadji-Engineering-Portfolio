@@ -38,15 +38,15 @@ My solution is a precision-machined coupling ring that eliminates error-prone dr
 
 ![Coupling CAD View 1](../assets/image-2.png)
 
-*Figure 1: Isometric view of the precision-machined coupling ring showing screw placement pattern and structural geometry.*
+*Figure 1: Isometric view of the lower coupling ring.*
 
 ![Coupling CAD View 2](../assets/image-3.png)
 
-*Figure 2: Bottom view showing the internal screw pattern and adhesive bonding surface.*
+*Figure 2: Isometric view of the upper coupling ring.*
 
 ![Coupling Assembly](../assets/image-1.png)
 
-*Figure 3: Cross-sectional view demonstrating the coupling interface and tube connection methodology.*
+*Figure 3: Isometric view of the assembly of the coupling rings.*
 
 ## Advanced FEA: Tension & Compression
 
