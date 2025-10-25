@@ -62,7 +62,6 @@ As Co-Founder and Mechanical Lead of Polaris Flight, I'm developing a comprehens
 - Flight test campaign execution
 - Performance optimization based on flight data
 - Advanced control algorithm implementation
-- Commercial application exploration
 
 ---
 
