@@ -68,7 +68,7 @@ To validate this innovation, I performed extensive FEA (Finite Element Analysis)
 
 ![Finite Element Mesh](../assets/Screenshot-2025-10-24-172238.png)
 
-*Figure 7: FEA Stress Resulrs.*
+*Figure 7: FEA Stress Results.*
 
 ## Leadership Responsibilities
 
@@ -103,62 +103,6 @@ To validate this innovation, I performed extensive FEA (Finite Element Analysis)
 - **Performance Optimization:** Balancing structural and aerodynamic objectives
 - **Manufacturing Feasibility:** Ensuring designs are manufacturable with available resources
 - **Testing Coordination:** Managing structural and aerodynamic testing programs
-
-## Technical Achievements
-
-### Optimization Results
-- **30% Weight Reduction:** Significant mass savings through topology optimization
-- **Maintained Integrity:** Preserved all structural performance requirements
-- **Validated Performance:** Confirmed results through comprehensive FEA analysis
-- **Production Ready:** Optimized designs ready for manufacturing implementation
-
-### Manufacturing Innovations
-- **Process Improvement:** Enhanced composite manufacturing techniques
-- **Quality Enhancement:** Improved consistency and repeatability in fabrication
-- **Cost Reduction:** Optimized manufacturing processes for resource efficiency
-- **Timeline Acceleration:** Streamlined production workflows
-
-## Project Management Excellence
-
-### Resource Coordination
-- **Budget Management:** Overseeing substantial project budgets and resources
-- **Timeline Management:** Coordinating complex project schedules across multiple initiatives
-- **Risk Management:** Identifying and mitigating technical and programmatic risks
-- **Quality Assurance:** Implementing comprehensive QA processes
-
-### Team Development
-- **Skill Building:** Developing technical capabilities across the team
-- **Knowledge Transfer:** Ensuring continuity and knowledge preservation
-- **Performance Management:** Maintaining high performance standards
-- **Career Development:** Supporting student professional growth
-
-## Industry Impact
-
-### Collaboration Results
-- **Industry Validation:** Recognition from aerospace industry partners
-- **Technology Transfer:** Successful application of academic research to practical problems
-- **Innovation Recognition:** Acknowledgment of novel approaches and solutions
-- **Professional Networks:** Building lasting connections with industry professionals
-
-### Educational Excellence
-- **Student Development:** Training next generation of aerospace engineers
-- **Research Integration:** Connecting academic research with practical applications
-- **Industry Preparation:** Preparing students for aerospace industry careers
-- **Innovation Culture:** Fostering culture of technical excellence and innovation
-
-## Current Initiatives
-
-### Active Projects
-- **Composite Tank Development:** Advanced pressure vessel design and testing
-- **Structural Integration:** Optimizing interface between major rocket components
-- **Manufacturing Automation:** Implementing automated manufacturing processes
-- **Performance Testing:** Comprehensive structural testing and validation programs
-
-### Future Development
-- **Advanced Materials:** Exploration of next-generation aerospace materials
-- **Digital Manufacturing:** Implementation of Industry 4.0 manufacturing techniques
-- **AI Integration:** Application of artificial intelligence to structural optimization
-- **Sustainability:** Environmental impact reduction in manufacturing processes
 
 ---
 
