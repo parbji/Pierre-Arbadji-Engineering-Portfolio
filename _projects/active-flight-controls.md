@@ -93,7 +93,6 @@ Independently initiated and led a comprehensive research project focused on deve
 ## Future Applications
 
 - **Polaris Flight Integration:** Algorithms adapted for 3-axis control system
-- **Commercial Applications:** Potential for industry partnership and licensing
 - **Educational Use:** Teaching tool for control systems courses
 - **Further Research:** Foundation for advanced flight control investigations
 
