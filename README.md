@@ -1,6 +1,6 @@
 # Pierre Arbaji - Aerospace & Mechanical Engineering Portfolio
 
-Welcome to my engineering portfolio! I'm a fourth-year Mechanical Engineering student at McGill University with a Minor in Aerospace Engineering, passionate about aerospace structural design, flight controls, and innovative engineering solutions.
+Welcome to my engineering portfolio! I'm a fourth-year Mechanical Engineering student at McGill University with a Minor in Aerospace Engineering, passionate about aerospace structural design, mechanical design, flight controls, and innovative engineering solutions.
 
 ---
 
@@ -51,9 +51,9 @@ Fourth-year polyglot Mechanical Engineering student specializing in aerospace st
 ### Aerostructure Operational Support Interm | **Airbus**
 *September 2025 – December 2025*
 
-Leading cross-functional program management for the A220 (A2X) convergence initiative, orchestrating engineering data integration across six international manufacturing sites (Germany, Canada, France, UK, Spain, China). Architected comprehensive engineering dashboards that provide real-time visibility into aerostructure design performance and manufacturing efficiency.
+Leading cross-functional program management convergence initiative, orchestrating engineering data integration across six international manufacturing sites (Germany, Canada, France, UK, Spain, China). Architected comprehensive engineering dashboards that provide real-time visibility into aerostructure design performance and manufacturing efficiency.
 
-• **Strategic KPI Development:** Defined and implemented performance metrics linking design optimization to production targets, enabling data-driven decision making for global aerospace supply chain management
+• **Strategic KPI Development:** Defined and implemented performance metrics, enabling data-driven decision making for global aerospace supply chain management
 
 • **Process Innovation Leadership:** Developed improvement roadmaps for large-scale aerostructure integration processes, identifying operational efficiencies that enhance structural component delivery timelines
 
@@ -100,8 +100,8 @@ Led critical materials engineering initiative to resolve structural deformation 
 ### **Project 1: Polaris Flight - Custom 3-Axis Flight Control System**
 **Co-Founder & Mechanical Lead | September 2025 – Present**
 
-- **Description:** Co-founded startup developing complete rocket system with proprietary 3-axis PID flight controller using servo-actuated control surfaces
-- **Skills Highlighted:** Aerodynamics, Control Systems, CAD Modeling, FEA, System Integration, Startup Leadership
+- **Description:** Co-founded research group developing complete rocket system with 3-axis PID flight controller using servo-actuated control surfaces
+- **Skills Highlighted:** Aerodynamics, Control Systems, CAD Modeling, FEA, System Integration
 - **Key Results:** Designed complete airframe optimized for aerodynamic efficiency, structural integrity, and control authority
 - **Status:** Transitioning from design to fabrication phase
 - **Repository:** [View Project Details](_projects/polaris-flight.md)
@@ -149,11 +149,6 @@ Led critical materials engineering initiative to resolve structural deformation 
 - **Key Results:** Selected optimal concept through house-of-quality, morphological charts, and Pugh matrix analysis
 - **Status:** Completed concept stage with bill of materials and interface specifications
 - **Repository:** [View Project Details](_projects/motorcycle-dashboard.md) | [Design Report PDF](assets/pdf/Conceptual-design-report.pdf)
-
----
-
-### **Project 6: Future Advanced Project**
-*Available Soon - Space for next engineering breakthrough*
 
 ---
 
