@@ -16,7 +16,7 @@ Fourth-year polyglot Mechanical Engineering student specializing in aerospace st
 
 - **Email:** pierre.arbaji@mail.mcgill.ca
 - **Phone:** 438-835-1116
-- **LinkedIn:** [Pierre Arbaji](https://www.linkedin.com/in/pierre-arbaji)
+- **LinkedIn:** [Pierre Arbaji](https://www.linkedin.com/in/pierre-arbaji-273441258)
 - **Download CV:** [CV-ARBADJIPierre.pdf](assets/pdf/CV-ARBADJIPierre.pdf)
 
 ---
