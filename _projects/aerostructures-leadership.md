@@ -38,29 +38,24 @@ Through these projects, I’ve learned how to:
 - Finite element mesh  
   ![FEA Mesh](../assets/Screenshot-2025-10-24-172238.png)
 
-#### Placeholder CADs – Add your files here
-
 - **AV Plate**  
-  Short description here.  
   ![AV Plate](../assets/AV_plate_0)
   ![AV Plate](../assets/AV_plate_1)
 
 - **AV Bay**  
-  Short description here.  
   ![AV Bay](../assets/IMG_5435.PNG)
   ![AV Bay](../assets/IMG_5436.PNG)
   ![AV Bay](../assets/IMG_5437.PNG)
   ![AV Bay](../assets/IMG_5438.PNG)
 
 - **Radax**  
-  Short description here.  
   ![Radax](../assets/Radax_0)
   ![Radax](../assets/Radax_1)
 
 - **Tank Stand**  
-  Short description here.  
-  ![Tank Stand](../assets/YOUR_TANKSTAND_IMAGE.png)
+  ![Tank Stand](../assets/TS_1)
+  ![Tank Stand](../assets/TS_2)
 
-*(Add/remove more CAD sections as needed)*
+
 
 ---
