@@ -27,5 +27,5 @@ Lessons learned and expertise gained include:
 - Practical experience in rapid prototyping, sensor interfacing, and experimental test design.
 - Grant proposal writing, budget management, and scholarly reporting in an undergraduate research context.
 
-This experience laid a strong foundation in aerospace controls, system engineering, and research methodology—skills directly transferable to future aerospace design and analysis challenges.
+This experience laid a strong foundation in aerospace controls, system engineering, and research methodology, skills directly transferable to future aerospace design and analysis challenges.
 
