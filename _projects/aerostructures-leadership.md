@@ -54,7 +54,8 @@ Through these projects, I’ve learned how to:
 
 - **Radax**  
   Short description here.  
-  ![Radax](../assets/YOUR_RADAX_IMAGE.png)
+  ![Radax](../assets/Radax_0)
+  ![Radax](../assets/Radax_1)
 
 - **Tank Stand**  
   Short description here.  
