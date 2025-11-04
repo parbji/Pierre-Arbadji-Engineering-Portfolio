@@ -21,7 +21,7 @@ Through these projects, I’ve learned how to:
 
 ### Featured CADs and Analysis
 
-Below are part of the elements that I have worked on.
+Below are part of the elements that I have worked on and designed. There are more contributions that we are continuously working on and implementing within the team, that will soon be added!
 
 - **Coupling System**
   ![Coupling CAD 1](../assets/image-2.png) 
