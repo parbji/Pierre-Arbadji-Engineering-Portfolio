@@ -53,8 +53,8 @@ Through these projects, I’ve learned how to:
   ![Radax](../assets/Radax_1)
 
 - **Tank Stand**  
-  ![Tank Stand](../assets/TS_1)
-  ![Tank Stand](../assets/TS_2)
+  ![Tank Stand](../assets/TS_1.png)
+  ![Tank Stand](../assets/TS_2.png)
 
 
 
