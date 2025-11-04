@@ -23,21 +23,16 @@ Through these projects, I’ve learned how to:
 
 Below are part of the elements that I have worked on.
 
-#### Coupling System (Images below)
+#### Coupling System
 
-- Overall coupling ring geometry  
-  ![Coupling CAD 1](../assets/image-2.png)
-- Section cut of bonded joint  
-  ![Coupling CAD 2](../assets/image-3.png)
-- Assembly photo or CAD  
+- CAD screenshots  
+  ![Coupling CAD 1](../assets/image-2.png) 
+  ![Coupling CAD 2](../assets/image-3.png) 
   ![Coupling Assembly](../assets/image-1.png)
-- FEA tension  
-  ![FEA Tension](../assets/Screenshot-2025-10-24-165057.png)
-- FEA compression  
-  ![FEA Compression](../assets/Screenshot-2025-10-24-165655.png)
-- Stress distribution  
-  ![FEA Stress](../assets/Screenshot-2025-10-24-170527.png)
-- Finite element mesh  
+- FEA screenshots  
+  ![FEA Tension](../assets/Screenshot-2025-10-24-165057.png) 
+  ![FEA Compression](../assets/Screenshot-2025-10-24-165655.png) 
+  ![FEA Stress](../assets/Screenshot-2025-10-24-170527.png)  
   ![FEA Mesh](../assets/Screenshot-2025-10-24-172238.png)
 
 - **AV Plate**  
