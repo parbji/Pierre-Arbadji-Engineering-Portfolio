@@ -1,105 +1,31 @@
 ---
 layout: post
 title: "Active Flight Controls Research"
-description: "$11,500 funded research project developing PID-based roll-control algorithms for rocket applications"
-skills:
-  - Control Systems Engineering
-  - Algorithm Development
-  - Prototype Development
-  - Research Methodology
-  - Testing & Validation
-  - Grant Writing
-main-image: /assets/flight-controls/main-image.webp
-repository: https://github.com/pierre-arbaji/active-flight-controls
-status: "Completed - Published Results"
-timeline: "May 2025 – August 2025"
-funding: "$11,500 McGill EUS Research Grant"
+description: "Research and development of PID-based roll-control system for rockets, funded by a McGill EUS grant."
+pdf: /assets/pdf/Design-Modeling-and-Testing-of-an-Active-Roll-Control-System-for-a-Model-Rocket-Using-Fin-Mounted-Control-Surfaces.pdf
+timeline: "May 2025 – Aug 2025"
 ---
 
-# Active Flight Controls Research Project
+This research internship focused on the design, modeling, and validation of an active roll-control system for small model rockets using fin-mounted control surfaces. Supported by an $11,500 funding grant from the McGill Engineering Undergraduate Society (EUS), this project aimed to develop reliable attitude stabilization methods through precise mechanical control.
 
-## Project Overview
+The work began with extensive literature review and the derivation of roll-axis dynamic equations tailored for our specific rocket platform. I developed a closed-loop PID control algorithm, incorporating sensor feedback to ensure the rocket maintains controlled attitude throughout flight.
 
-Independently initiated and led a comprehensive research project focused on developing active flight control systems for small-scale rockets. Successfully secured $11,500 in research funding from McGill EUS and delivered validated control algorithms with functional prototype demonstration.
+Key stages included:
 
-## Research Objectives
+- **Mathematical Modeling:** Formulating the roll-axis dynamics using classical mechanics and control theory, establishing a framework for controller design.
+- **Control Algorithm Design:** Implementing and tuning PID parameters through simulation using MATLAB/Simulink to meet stability and responsiveness requirements.
+- **Hardware Prototyping:** Designing the fin-actuation mechanism with a mechanically-linked single-servo configuration, maximizing reliability and minimizing complexity.
+- **Experimental Setup:** Constructing a ground test rig to verify actuator performance, sensor accuracy, and control response prior to flight testing.
+- **Validation:** Comparing physical data against simulations to confirm model accuracy and controller effectiveness, and iteratively refining parameters and mechanical designs.
 
-### Primary Goals
-- Develop robust PID-based control algorithms for rocket roll stabilization
-- Create mathematical models for roll-axis dynamics
-- Design and fabricate test hardware for validation
-- Validate control effectiveness through systematic testing
+The project culminated in rigorous performance evaluation, demonstrating robust roll stabilization across multiple test flights and environmental conditions. Comprehensive documentation was prepared, encompassing methodology, simulations, hardware design, and test results.
 
-### Technical Approach
-- **Mathematical Modeling:** Derived complete roll-axis dynamics equations
-- **Control Design:** Implemented PID-based closed-loop control algorithm
-- **Simulation Validation:** Extensive MATLAB/Simulink modeling and testing
-- **Hardware Development:** Custom mechanically-linked servo actuation system
+Lessons learned and expertise gained include:
 
-## Key Innovations
+- Mastery of dynamic system modeling and control theory as applied to aerospace rolling moments.
+- Integration of simulation software with hardware prototyping for iterative system development.
+- Practical experience in rapid prototyping, sensor interfacing, and experimental test design.
+- Grant proposal writing, budget management, and scholarly reporting in an undergraduate research context.
 
-### Control Algorithm Development
-- **Custom PID Implementation:** Optimized for rocket roll dynamics
-- **Simulation Framework:** Complete system modeling in MATLAB/Simulink
-- **Performance Validation:** Confirmed effectiveness through simulation testing
-- **Robustness Analysis:** Evaluated performance under various flight conditions
+This experience laid a strong foundation in aerospace controls, system engineering, and research methodology—skills directly transferable to future aerospace design and analysis challenges.
 
-### Hardware Design
-- **Test Rocket Design:** Custom airframe optimized for control system testing
-- **Actuation System:** Single-servo mechanically-linked design for improved reliability
-- **Sensor Integration:** Precision instrumentation for control feedback
-- **Ground Test Setup:** Comprehensive testing apparatus for validation
-
-## Research Results
-
-### Technical Achievements
-- **Algorithm Validation:** Successful demonstration of roll-control effectiveness
-- **Hardware Performance:** Confirmed prototype reliability through bench testing
-- **System Integration:** Seamless integration of control and mechanical systems
-- **Documentation:** Comprehensive technical reports and findings
-
-### Performance Metrics
-- **Control Authority:** Demonstrated effective roll control across operational envelope
-- **Response Time:** Achieved target response characteristics
-- **Reliability:** Validated mechanical system precision and repeatability
-- **Safety:** Implemented comprehensive fail-safe mechanisms
-
-## Testing & Validation
-
-### Simulation Testing
-- **Model Validation:** Confirmed mathematical model accuracy
-- **Algorithm Performance:** Verified control effectiveness across flight envelope
-- **Robustness Testing:** Evaluated performance under disturbances and uncertainties
-
-### Physical Testing
-- **Bench Testing:** Systematic evaluation of all subsystems
-- **Ground Testing:** Comprehensive validation of integrated system
-- **Performance Verification:** Confirmed prototype meets design specifications
-
-## Research Impact
-
-### Technical Contributions
-- **Novel Approach:** Innovative mechanically-linked actuation system design
-- **Validated Methods:** Proven control algorithms for rocket applications
-- **Scalable Solution:** Applicable to various rocket platforms and missions
-- **Open Source:** Research findings and methods made available to community
-
-### Educational Value
-- **Research Skills:** Advanced research methodology and project management
-- **Technical Writing:** Comprehensive documentation and reporting
-- **Presentation Skills:** Regular progress presentations to stakeholders
-- **Funding Management:** Successful grant administration and budget control
-
-## Future Applications
-
-- **Polaris Flight Integration:** Algorithms adapted for 3-axis control system
-- **Educational Use:** Teaching tool for control systems courses
-- **Further Research:** Foundation for advanced flight control investigations
-
-## Technical Gallery
-
-*[Images to be added showing prototype hardware, test setup, simulation results, and validation data]*
-
----
-
-*This research project demonstrates the complete engineering research cycle from problem identification through validated solution delivery, combining theoretical development with practical implementation and testing.*
