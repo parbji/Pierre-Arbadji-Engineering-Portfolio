@@ -23,13 +23,13 @@ Through these projects, I’ve learned how to:
 
 Below are part of the elements that I have worked on.
 
-#### Coupling System
+- **Coupling System**
 
-- CAD screenshots  
+CAD screenshots  
   ![Coupling CAD 1](../assets/image-2.png) 
   ![Coupling CAD 2](../assets/image-3.png) 
   ![Coupling Assembly](../assets/image-1.png)
-- FEA screenshots  
+FEA screenshots  
   ![FEA Tension](../assets/Screenshot-2025-10-24-165057.png) 
   ![FEA Compression](../assets/Screenshot-2025-10-24-165655.png) 
   ![FEA Stress](../assets/Screenshot-2025-10-24-170527.png)  
