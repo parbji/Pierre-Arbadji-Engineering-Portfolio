@@ -1,109 +1,61 @@
 ---
 layout: post
-title: "Aerostructures Optimization & Team Leadership"
-description: "Leading 50-student team in advanced aerospace structural design, achieving 30% weight reduction through topology optimization"
-skills:
-  - Topology Optimization
-  - Finite Element Analysis
-  - Team Leadership
-  - Composites Manufacturing
-  - Project Management
-  - Structural Design
-main-image: /assets/aerostructures/main-image.webp
-repository: https://github.com/mcgill-rocket-team/aerostructures
-status: "Ongoing Leadership Role"
-timeline: "May 2025 – Present"
-team-size: "50 students"
+title: "Aerostructures Subteam Lead – McGill Rocket Team"
+description: "Conceiving, designing, and validating major structural components for competitive university rocketry. Leading a large student team and multiple manufacturing/analysis projects."
+timeline: "Sept 2023 – Present"
 ---
 
-# Aerostructures Optimization & Team Leadership
+As subteam lead, I guide the design and delivery of all primary rocket structures and interfaces for McGill’s competitive launches. This includes everything from composite tank development, coupling systems, to critical load-bearing bulkheads and specialty interfaces. My role balances technical modeling, detailed FEA, hands-on prototyping, and training/mentoring our group of over 50 engineering students.
 
-As the Aerostructures Subteam Lead for the McGill Rocket Team, I drive the entire lifecycle of advanced aerospace structural designs, from initial concept, CAD modeling, materials selection, FEA validation, to final manufacturing and integration in competition rockets. I lead a team of 50+ students and coordinate our efforts across multiple concurrent projects, guiding technical development, mentoring members, and setting the foundation for high-reliability, manufacturable structures.
+My biggest contribution to the team is connecting classroom knowledge with real aerospace manufacturing—scoping objectives, leading brainstorming and modeling in Siemens NX and SolidWorks, validating important designs with detailed finite element analysis, and coordinating everything from composite layups to mechanical assembly/test.
 
-## Programmatic Vision & Team Impact
+We iteratively improved our core designs: composite tanks, bulkheads, and coupling solutions, all of which had to be both light and manufacturable. Our latest coupling ring, for example, solves historic alignment issues for field assembly and dramatically shortens build times. Process improvements and careful QA have cut scrap and unpredictable failures.
 
-My leadership revolves around building high-performing teams, implementing rigorous design workflows, and instituting best practices in composite fabrication, quality control, and digital manufacturing. I set the technology roadmap for aerostructures development, facilitate sponsor and industry partnerships, and integrate cross-team workflows to ensure our solutions connect with propulsion, avionics, and mission operations requirements. My approach ensures our projects stay on-track, within budget, and ready for key flight milestones.
+Through these projects, I’ve learned how to:
+- Direct a large multidisciplinary team (communication and clear planning are as important as technical skills)
+- Push topology optimization for thin-walled, high-load structures
+- Manage sponsor expectations and budget/funding for research, competitions, and tooling
+- Guide composite layup and post-processing to aerospace QA standards
+- Analyze joints for both concentricity and force distribution, using nonlinear FEA
+- Deliver documents and technical presentations to external judges, sponsors, and the university
 
-## Coupling System Innovation: Design, Assembly & Structural Validation
+### Featured CADs and Analysis
 
-A standout achievement is the design and qualification of a new primary coupling system to join large-diameter carbon fiber rocket tubes. Previously, coupling required drilling and aligning 16 or more holes through composite tubes,a process prone to tooling errors, lost concentricity, and significant manufacturing downtime. 
+#### Coupling System (Images below)
 
-My solution is a precision-machined coupling ring that eliminates error-prone drilling and fastener alignment:
+- Overall coupling ring geometry  
+  ![Coupling CAD 1](../assets/image-2.png)
+- Section cut of bonded joint  
+  ![Coupling CAD 2](../assets/image-3.png)
+- Assembly photo or CAD  
+  ![Coupling Assembly](../assets/image-1.png)
+- FEA tension  
+  ![FEA Tension](../assets/Screenshot-2025-10-24-165057.png)
+- FEA compression  
+  ![FEA Compression](../assets/Screenshot-2025-10-24-165655.png)
+- Stress distribution  
+  ![FEA Stress](../assets/Screenshot-2025-10-24-170527.png)
+- Finite element mesh  
+  ![FEA Mesh](../assets/Screenshot-2025-10-24-172238.png)
 
-- The ring epoxy-bonds (Loctite/Hysol EA-9394 Aero) to the flat part of each tube, with each flat ensuring a precise, concentric joint.
-- Assembly time and geometric consistency are dramatically improved.
-- The screw angles are engineered for optimal load transfer and are designed to safely sustain maximal launch and recovery forces, with a factor of safety >4 for the adhesive and joint, providing conservative reliability for our first use in flight.
+#### Placeholder CADs – Add your files here
 
-### CAD Model
+- **AV Plate**  
+  Short description here.  
+  ![AV Plate](../assets/YOUR_AVPLATE_IMAGE.png)
 
-![Coupling CAD View 1](../assets/image-2.png)
+- **Heavy Bay**  
+  Short description here.  
+  ![Heavy Bay](../assets/YOUR_HEAVYBAY_IMAGE.png)
 
-*Figure 1: Isometric view of the lower coupling ring.*
+- **Radax**  
+  Short description here.  
+  ![Radax](../assets/YOUR_RADAX_IMAGE.png)
 
-![Coupling CAD View 2](../assets/image-3.png)
+- **Tank Stand**  
+  Short description here.  
+  ![Tank Stand](../assets/YOUR_TANKSTAND_IMAGE.png)
 
-*Figure 2: Isometric view of the upper coupling ring.*
-
-![Coupling Assembly](../assets/image-1.png)
-
-*Figure 3: Isometric view of the assembly of the coupling rings.*
-
-## Advanced FEA: Tension & Compression
-
-To validate this innovation, I performed extensive FEA (Finite Element Analysis) for both tension and compression on the coupling system. Simulations confirmed that all load paths, fastener stresses, adhesive interfaces, and tube join lines met or exceeded required factors of safety for launch environments. The new system maintains perfect tube concentricity, the critical design requirement. Part of the FEA results have been included below. 
-
-### FEA Results
-
-![Tension Analysis Results](../assets/Screenshot-2025-10-24-165057.png)
-
-*Figure 4: Part Loads and Constraints.*
-
-![Compression Analysis Results](../assets/Screenshot-2025-10-24-165655.png)
-
-*Figure 5: FEA Stress Results.*
-
-![Detailed Stress Distribution](../assets/Screenshot-2025-10-24-170527.png)
-
-*Figure 6: Part Loads and Constraints.*
-
-![Finite Element Mesh](../assets/Screenshot-2025-10-24-172238.png)
-
-*Figure 7: FEA Stress Results.*
-
-## Leadership Responsibilities
-
-### Team Management
-- **Large-Scale Leadership:** Managing and coordinating 50+ engineering students
-- **Project Oversight:** Supervising multiple concurrent aerostructure initiatives
-- **Cross-Team Integration:** Ensuring seamless collaboration with other rocket team subteams
-- **Mentorship:** Developing junior engineers and fostering technical growth
-
-### Strategic Initiatives
-- **Sponsor Relations:** Coordinating with industry sponsors and securing funding
-- **Industry Partnerships:** Maintaining relationships with aerospace companies
-- **Technology Roadmap:** Setting strategic direction for aerostructure development
-- **Quality Standards:** Establishing and maintaining engineering excellence standards
-
-## Technical Projects
-
-### Structural Optimization Initiative
-- **Topology Optimization:** Advanced structural optimization using Siemens NX
-- **Weight Reduction:** Achieved 30% weight reduction while maintaining structural integrity
-- **FEA Validation:** Comprehensive finite element analysis for all optimized components
-- **Design Validation:** Systematic verification of structural performance under flight loads
-
-### Manufacturing Excellence
-- **Composites Manufacturing:** Advanced composite fabrication techniques and processes
-- **Internal Structures:** Design and optimization of critical internal rocket components
-- **Composite Tanks:** Pressure vessel design and manufacturing optimization
-- **Post-Processing:** Advanced finishing techniques for aerospace-grade components
-
-### Aerodynamics Integration
-- **Cross-Disciplinary Work:** Integrating structural and aerodynamic requirements
-- **Performance Optimization:** Balancing structural and aerodynamic objectives
-- **Manufacturing Feasibility:** Ensuring designs are manufacturable with available resources
-- **Testing Coordination:** Managing structural and aerodynamic testing programs
+*(Add/remove more CAD sections as needed)*
 
 ---
-
-*This leadership role demonstrates the integration of advanced technical expertise with large-scale project management and team development capabilities, essential skills for senior engineering positions in the aerospace industry.*
