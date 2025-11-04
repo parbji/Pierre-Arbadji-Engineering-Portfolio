@@ -42,7 +42,8 @@ Through these projects, I’ve learned how to:
 
 - **AV Plate**  
   Short description here.  
-  ![AV Plate](../assets/YOUR_AVPLATE_IMAGE.png)
+  ![AV Plate](../assets/AV_plate_0)
+  ![AV Plate](../assets/AV_plate_1)
 
 - **Heavy Bay**  
   Short description here.  
