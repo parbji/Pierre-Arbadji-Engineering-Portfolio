@@ -29,3 +29,9 @@ Lessons learned and expertise gained include:
 
 This experience laid a strong foundation in aerospace controls, system engineering, and research methodology, skills directly transferable to future aerospace design and analysis challenges.
 
+---
+
+## Full Research Report
+
+For detailed methodology, data, simulation results, and validation, please see the full research report:  
+[Download the Active Roll Control System PDF Report](../assets/pdf/Design-Modeling-and-Testing-of-an-Active-Roll-Control-System-for-a-Model-Rocket-Using-Fin-Mounted-Control-Surfaces.pdf)
