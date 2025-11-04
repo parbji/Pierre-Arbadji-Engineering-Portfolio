@@ -45,9 +45,12 @@ Through these projects, I’ve learned how to:
   ![AV Plate](../assets/AV_plate_0)
   ![AV Plate](../assets/AV_plate_1)
 
-- **Heavy Bay**  
+- **AV Bay**  
   Short description here.  
-  ![Heavy Bay](../assets/YOUR_HEAVYBAY_IMAGE.png)
+  ![AV Bay](../assets/IMG_5435.PNG)
+  ![AV Bay](../assets/IMG_5436.PNG)
+  ![AV Bay](../assets/IMG_5437.PNG)
+  ![AV Bay](../assets/IMG_5438.PNG)
 
 - **Radax**  
   Short description here.  
