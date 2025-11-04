@@ -8,7 +8,7 @@ timeline: "Jan 2025 – Mar 2025"
 
 This project set out to tackle a high-impact challenge in motorcycle safety: how to proactively warn riders about road hazards by integrating sensor-driven alerts directly into the dashboard. Our group followed a robust engineering design workflow from first principles and market analysis through to technical concept selection and high-level feasibility work.
 
-Work began with requirements engineering and user interviews—understanding what real motorcyclists needed, what distracted them, and how alert timing might affect their reactions. We built feature matrices and weighed options for integrating camera, radar, and proximity sensors, always considering ergonomics, cost, and real manufacturability.
+Work began with requirements engineering and user interviews, understanding what real motorcyclists needed, what distracted them, and how alert timing might affect their reactions. We built feature matrices and weighed options for integrating camera, radar, and proximity sensors, always considering ergonomics, cost, and real manufacturability.
 
 Technical tools included system block diagrams, morphological charts, and Pugh matrices, which let us clearly rank creative solutions. We ultimately selected a dashboard screen with multi-sensor data fusion alerts as the best balance of clarity, technical risk, and cost. Then we iterated on physical interface design, optimizing icons, display contrast, and placement so warnings would be visible in all light conditions but never distracting.
 
