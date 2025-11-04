@@ -15,17 +15,13 @@ I’ve learned how to:
 
 ### CAD Images
 
-*Upload each image you want to showcase below. Replace filename and text as needed.*
-
 - **Main Airframe CAD**  
   Placeholder for rocket main body/structure.
-  ![Polaris Airframe CAD](../assets/YOUR_POLARIS_AIRFRAME_IMAGE.png)
+  ![Polaris Airframe CAD](../assets/Pl_1.png)
+  ![Polaris Airframe CAD](../assets/Pl_2.png)
 
 - **Control System Mechanism**  
   Placeholder for actuator/servo geometry.
-  ![Polaris Control CAD](../assets/YOUR_POLARIS_CONTROL_IMAGE.png)
+  ![Polaris Control CAD](../assets/Pl_3.png)
 
-- **Any Project FEA or Bench Testing**  
-  Placeholder for simulation or hardware validation.
-  ![Polaris FEA Test](../assets/YOUR_POLARIS_FEA_IMAGE.png)
 ---
