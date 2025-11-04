@@ -16,12 +16,10 @@ I’ve learned how to:
 ### CAD Images
 
 - **Main Airframe CAD**  
-  Placeholder for rocket main body/structure.
   ![Polaris Airframe CAD](../assets/Pl_1.png)
   ![Polaris Airframe CAD](../assets/Pl_2.png)
 
 - **Control System Mechanism**  
-  Placeholder for actuator/servo geometry.
   ![Polaris Control CAD](../assets/Pl_3.png)
 
 ---
