@@ -5,7 +5,7 @@ description: "Development and integration of custom rocket airframe and multi-ax
 timeline: "Sept 2025 – Present"
 ---
 
-Polaris Flight was founded to validate a custom-designed 3-axis aerodynamic control system for high-performance student rockets. My focus is leading the mechanical side—building the airframe for rapid prototyping, creating the control surface geometries, and ensuring reliability for in-flight actuation via servo and linkage systems.
+Polaris Flight was founded to validate a custom-designed 3-axis aerodynamic control system for high-performance student rockets. My focus is leading the mechanical side, designing and building the airframe and structural component, ensuring reliability for in-flight actuation via servo and linkage systems.
 
 I’ve learned how to:
 - Integrate design, analysis, and hardware for full-system prototyping
