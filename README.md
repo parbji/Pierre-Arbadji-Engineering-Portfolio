@@ -8,7 +8,7 @@ Welcome to my engineering portfolio! I'm a last year Mechanical Engineering stud
 
 - **Email:** pierre.arbaji@mail.mcgill.ca
 - **Phone:** 438-835-1116
-- **LinkedIn:** [Pierre Arbaji](https://www.linkedin.com/in/pierre-arbaji-273441258)
+- **LinkedIn:** [Pierre Arbaji](https://www.linkedin.com/in/pierre-arbadji-273441258)
 - **Portfolio:** [Portfolio-ARBADJIPierre.pdf](assets/pdf/Portfolio_ARBAJIPierre_Sep26.pdf)
 
 ---
