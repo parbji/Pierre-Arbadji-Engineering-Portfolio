@@ -20,7 +20,7 @@ Mechanical design · Aerospace structures · Composites and manufacturing
 
 I design, analyse, build and test load-bearing structures. Most of that work has been on rocket hardware (composite airframes, machined metallic interfaces, a pressure vessel), because student rocketry hands the entire design loop to undergraduates: requirements, sizing, finite element analysis, tooling, manufacturing, testing and flight. Internships in aerostructures at Airbus and in advanced composite structures at Bombardier, and undergraduate research on polymer actuators for architected metamaterials, have extended the same interest in how structures and materials behave and how far they can be pushed.
 
-**Current work (2026–27):** Design and Optimization Technical Director, McGill Rocket Team. Capstone project on the design, manufacture and ground testing of a one-piece composite fin can for the team's supersonic two-stage vehicle.
+**Current work (2026–27):** Design and Optimization Advisor, McGill Rocket Team. Capstone project on the design, manufacture and ground testing of a one-piece composite fin can for the team's supersonic two-stage vehicle.
 
 ## Engineering Portfolio
 
