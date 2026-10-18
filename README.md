@@ -40,7 +40,7 @@ The [**portfolio**](Pierre-Arbaji-Engineering-Portfolio.pdf) (19 pages, updated 
     <td width="190"><img src="assets/thumbs/clt-tool.jpg" width="180" alt="Failure analysis sheet of the laminate design tool, showing the governing ply and Tsai-Wu reserve factor"></td>
     <td>
       <b>2 · Classical laminate theory design tool</b> <sub>(p. 7)</sub><br>
-      <i>Individual project, used to size Luminor's composite airframe</i><br><br>
+      <i>Individual project, used to size composite airframes</i><br><br>
       24 benchmark quantities agree within 0.05% with an independent Python implementation; the laminates it sized flew without damage.<br>
       <sub>CLT (ABD) · six failure criteria including Tsai–Wu, Hashin and Puck · shell and panel buckling · independent verification</sub>
     </td>
