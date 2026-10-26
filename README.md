@@ -6,7 +6,7 @@
 
 Mechanical design · Aerospace structures · Composites and manufacturing
 
-[**Engineering Portfolio (PDF)**](assets/Portfolio.pdf) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pierre-arbaji-273441258) &nbsp;·&nbsp; [pierre.arbaji@mail.mcgill.ca](mailto:pierre.arbaji@mail.mcgill.ca)
+[**Engineering Portfolio (PDF)**](assets/Portfolio10.pdf) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pierre-arbaji-273441258) &nbsp;·&nbsp; [pierre.arbaji@mail.mcgill.ca](mailto:pierre.arbaji@mail.mcgill.ca)
 
 </div>
 
