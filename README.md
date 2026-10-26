@@ -50,7 +50,7 @@ The [**portfolio**](Pierre-Arbaji-Engineering-Portfolio.pdf) (19 pages, updated 
     <td>
       <b>3 · Structural redesign: load-path and topology optimization</b> <sub>(p. 10)</sub><br>
       <i>Two flight components for the team's next, higher-apogee vehicle</i><br><br>
-      Recovery interface 85% lighter (1.575 kg to 0.230 kg); propulsion cage bending factor of safety raised from 1.50 to 2.10 with 17.7% less mass.<br>
+      Recovery interface 85% lighter (1.575 kg to 0.230 kg); intertank RADAX cage bending factor of safety raised from 1.50 to 2.10 with 17.7% less mass.<br>
       <sub>Load-path redesign · topology optimization · design for three-axis machining · mesh convergence</sub>
     </td>
   </tr>
