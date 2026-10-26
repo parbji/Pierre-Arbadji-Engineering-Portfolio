@@ -24,7 +24,7 @@ I design, analyse, build and test load-bearing structures. Most of that work has
 
 ## Engineering Portfolio
 
-The [**portfolio**](Pierre-Arbaji-Engineering-Portfolio.pdf) (19 pages, updated September 2026) documents the engineering behind each project rather than repeating my CV: the requirements each design answered, the decisions and trade-offs, how the analysis was checked, and what testing and flight showed.
+The [**portfolio**](assets/Portfolio10.pdf) (18 pages, updated September 2026) documents the engineering behind each project rather than repeating my CV: the requirements each design answered, the decisions and trade-offs, how the analysis was checked, and what testing and flight showed.
 
 <table>
   <tr>
