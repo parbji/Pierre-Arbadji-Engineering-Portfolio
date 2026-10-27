@@ -1,11 +1,11 @@
 <sub>[Pierre Arbaji](../../README.md) / [Additional projects](../README.md) / Motorcycle hazard-warning system</sub>
 
-# Motorcycle Hazard-Warning System: Conceptual Design
+# Motorcycle hazard-warning system: conceptual design
 
-**MECH 292 Conceptual Design · McGill University · Winter 2025**<br>
+MECH 292 Conceptual Design · McGill University · Winter 2025<br>
 Team of five · My role: research and development lead
 
-**Full report:** [Conceptual Design Report](Motorcycle-Hazard-Warning-Conceptual-Design-Report.pdf) (12 pages)
+Full report: [Conceptual Design Report](Motorcycle-Hazard-Warning-Conceptual-Design-Report.pdf) (12 pages)
 
 ## Problem
 
@@ -13,9 +13,9 @@ Motorcyclists are far more vulnerable than other road users, particularly to roa
 
 ## Process
 
-- **Requirements.** A house of quality captured the requirements: accurate and reliable detection that distinguishes hazard types, real-time warning with minimal distraction, easy integration with existing bikes and gear, regulatory compliance, affordability and durability.
-- **Concept generation.** A morphological chart covered four functions: communicating the hazard, characterising it, warning in time and integrating with the bike. It led to three concepts: an augmented-reality helmet, a dashboard screen, and mirror-mounted warning lights.
-- **Selection.** A weighted Pugh matrix across seven criteria scored the dashboard screen 20, the warning lights 18 and the AR helmet 16.
+A house of quality captured the requirements: accurate and reliable detection that distinguishes hazard types, real-time warning with minimal distraction, easy integration with existing bikes and gear, regulatory compliance, affordability and durability.
+
+A morphological chart covered four functions: communicating the hazard, characterising it, warning in time and integrating with the bike. It led to three concepts: an augmented-reality helmet, a dashboard screen, and mirror-mounted warning lights. A weighted Pugh matrix across seven criteria scored the dashboard screen 20, the warning lights 18 and the AR helmet 16.
 
 <p align="center">
   <img src="figures/rider-view-sketch.png" width="48%" alt="Concept sketch of the rider's view with a dashboard-mounted warning display">
