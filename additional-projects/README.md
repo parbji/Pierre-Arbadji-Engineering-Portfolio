@@ -1,8 +1,8 @@
 <sub>[Pierre Arbaji](../README.md) / Additional projects</sub>
 
-# Additional Projects
+# Additional projects
 
-Earlier coursework and research. My main work is presented in the [engineering portfolio](../Pierre-Arbaji-Engineering-Portfolio.pdf). Each page below summarises the problem, the approach, the results and my role, and links the full report.
+Earlier coursework and research. My main work is in the [engineering portfolio](../assets/Portfolio10.pdf). Each page below summarises the problem, the approach, the results and my role, and links the full report.
 
 | Project | Context | Summary |
 |---|---|---|
