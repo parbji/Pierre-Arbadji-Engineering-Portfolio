@@ -62,8 +62,5 @@ The controller was then checked in the full nonlinear 6-DOF simulation. Roll-rat
 
 ## Avionics
 
-The avionics are led by team captain Benedetto D'Agnillo. A Raspberry Pi Zero 2W flight computer reads an IMU, a barometer and a GPS, runs the state estimator, and talks to the ground over a 915 MHz LoRa link. A six-antenna pseudo-Doppler array measures the direction to the ground station, with an estimated accuracy of 3 to 4°. A commercial Telemega altimeter is the backup.
+The avionics are led by Benedetto D'Agnillo. A Raspberry Pi Zero 2W flight computer reads an IMU, a barometer and a GPS, runs the state estimator, and talks to the ground over a 915 MHz LoRa link. A six-antenna pseudo-Doppler array measures the direction to the ground station, with an estimated accuracy of 3 to 4°. A commercial Telemega altimeter is the backup.
 
-## My role
-
-I co-founded the team and am its chief engineer. I am responsible for the mechanical design and much of the control-system design, including the canard mechanism and its fail-safe lock. Michael Zhou is the chief safety officer. The team reports to the McGill Institute for Aerospace Engineering.
