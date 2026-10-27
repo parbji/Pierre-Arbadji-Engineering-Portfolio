@@ -1,11 +1,11 @@
 <sub>[Pierre Arbaji](../../README.md) / [Additional projects](../README.md) / Structural bracket</sub>
 
-# Structural Bracket: Design, FEA and Test to Failure
+# Structural bracket: design, FEA and test to failure
 
-**MECH 321 Mechanics of Deformable Solids · McGill University · Winter 2025**<br>
+MECH 321 Mechanics of Deformable Solids · McGill University · Winter 2025<br>
 Team of two, with Michael Salameh (equal contribution)
 
-**Full report:** [Design and Analysis of a Structural Bracket](Structural-Bracket-Report.pdf) (13 pages)
+Full report: [Design and Analysis of a Structural Bracket](Structural-Bracket-Report.pdf) (13 pages)
 
 <p align="center">
   <img src="figures/fea-displacement.jpg" width="70%" alt="Abaqus displacement field of the final bracket geometry under the imposed 0.7 mm load-pin displacement">
@@ -17,10 +17,11 @@ The task was to design a laser-cut bracket in 3.0 mm acrylic (E = 2.8 GPa, tensi
 
 ## Approach
 
-- **Concept screening.** Several concepts were modelled in Abaqus with pinned boundary conditions and the imposed displacement. Thinner concepts were rejected because their peak von Mises stress was too high relative to the tensile strength.
-- **Refinement.** The chosen concept was refined with local mesh control around the pin holes and a mesh convergence study, run within the 1,000-node limit of the student licence.
-- **Design for manufacture.** The outline is a single smooth contour with no sharp corners. This reduces stress concentrations and laser-cutting time for batch production. The geometry was delivered as a DXF.
-- **Strength prediction.** The applied load was iterated until the peak stress reached the tensile strength. This predicted failure at about 465 N at the loaded pin, where stress concentration is highest.
+We modelled several concepts in Abaqus with pinned boundary conditions and the imposed displacement, and rejected the thinner ones because their peak von Mises stress was too high relative to the tensile strength. The chosen concept was refined with local mesh control around the pin holes and a mesh convergence study, run within the 1,000-node limit of the student licence.
+
+The outline is a single smooth contour with no sharp corners, which reduces stress concentrations and laser-cutting time for batch production. The geometry was delivered as a DXF.
+
+To predict strength, we iterated the applied load until the peak stress reached the tensile strength. This predicted failure at about 465 N at the loaded pin, where stress concentration is highest.
 
 ## Results
 

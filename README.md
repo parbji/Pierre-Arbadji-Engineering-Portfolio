@@ -20,11 +20,11 @@ Mechanical design · Aerospace structures · Composites and manufacturing
 
 I design, analyse, build and test load-bearing structures. Most of that work has been on rocket hardware (composite airframes, machined metallic interfaces, a pressure vessel), because student rocketry's entire design loop is done by undergraduates: requirements, sizing, finite element analysis, tooling, manufacturing, testing and flight. Internships in aerostructures at Airbus and in advanced structures at Bombardier, and undergraduate research on polymer actuators for architected metamaterials, have extended the same interest in how structures and materials behave and how far they can be pushed.
 
-**Current work (2026–27):** Design and Optimization Advisor, McGill Rocket Team. Capstone project on the design, manufacture and ground testing of a one-piece composite fin can for the team's supersonic two-stage vehicle.
+Current work (2026–27): Design and Optimization Advisor, McGill Rocket Team. Capstone project on the design, manufacture and ground testing of a one-piece composite fin can for the team's supersonic two-stage vehicle.
 
-## Engineering Portfolio
+## Engineering portfolio
 
-The [**portfolio**](assets/Portfolio10.pdf) (18 pages, updated September 2026) documents the engineering behind each project rather than repeating my CV: the requirements each design answered, the decisions and trade-offs, how the analysis was checked, and what testing and flight showed.
+The [portfolio](assets/Portfolio10.pdf) (18 pages, updated October 2026) documents the engineering behind each project rather than repeating my CV: the requirements each design answered, the decisions and trade-offs, how the analysis was checked, and what testing and flight showed.
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ The [**portfolio**](assets/Portfolio10.pdf) (18 pages, updated September 2026) d
     </td>
   </tr>
   <tr>
-    <td width="190"><img src="assets/thumbs/cage-redesign.jpg" width="180" alt="Topology-optimised propulsion cage, redesigned for three-axis machining"></td>
+    <td width="190"><img src="assets/thumbs/cage-redesign.jpg" width="180" alt="Topology-optimised intertank RADAX cage, redesigned for three-axis machining"></td>
     <td>
       <b>3 · Structural redesign: load-path and topology optimization</b> <sub>(p. 10)</sub><br>
       <i>Two flight components for the team's next, higher-apogee vehicle</i><br><br>
@@ -57,16 +57,16 @@ The [**portfolio**](assets/Portfolio10.pdf) (18 pages, updated September 2026) d
   <tr>
     <td width="190"><img src="assets/thumbs/scp-muscle.jpg" width="180" alt="Supercoiled polymer muscle under a 290 g dead load during electro-thermal testing"></td>
     <td>
-      <b>4 · Research: supercoiled polymer muscles for bistable metamaterials</b> <sub>(p. 15)</sub><br>
-      <i>Architected Metamaterials Group, McGill · Undergraduate Research Assistant · co-author</i><br><br>
-      12% stroke against a 2.84 N load (2.0 N required); failure mechanism identified; integration concept designed.<br>
-      <sub>Fabrication · electro-thermal testing · failure analysis · integration design</sub>
+      <b>4 · Research: supercoiled polymer muscles for bistable metamaterials</b> <sub>(p. 14)</sub><br>
+      <i>Architected Metamaterials Group, McGill · Undergraduate Research Assistant</i><br><br>
+      12% stroke (19.05 mm) against a 2.84 N load, above the 2.0 N and 15 mm required; failure limits identified; muscle integrated into the metamaterial prototype.<br>
+      <sub>Fabrication · electro-thermal testing · failure analysis · integration</sub>
     </td>
   </tr>
   <tr>
     <td width="190"><img src="assets/thumbs/business-jet.jpg" width="180" alt="Rendering of the long-range business jet design"></td>
     <td>
-      <b>5 · Aircraft conceptual design: long-range business jet</b> <sub>(p. 18)</sub><br>
+      <b>5 · Aircraft conceptual design: long-range business jet</b> <sub>(p. 17)</sub><br>
       <i>AERO 520 aircraft design, team of four · led the structural layout</i><br><br>
       Takeoff and landing field lengths of 5,234 ft and 5,206 ft against a 6,000 ft limit; 1.9% range shortfall traced to cruise L/D.<br>
       <sub>Constraint sizing · performance · stability and trim · structural layout</sub>
@@ -74,7 +74,21 @@ The [**portfolio**](assets/Portfolio10.pdf) (18 pages, updated September 2026) d
   </tr>
 </table>
 
-## Additional Projects
+Polaris Flight is not in the PDF yet because the rocket has not been built or flown. Its design report and a summary are linked below.
+
+<table>
+  <tr>
+    <td width="190"><img src="assets/thumbs/polaris-mechanism.jpg" width="180" alt="Canard roll-control module: one servo between two solenoids, driving both canards through bevel gears"></td>
+    <td>
+      <b><a href="polaris-flight/">Polaris Flight: canard roll control</a></b> <sub>(<a href="polaris-flight/Polaris-Flight-Preliminary-Design-Report.pdf">design report, PDF</a>)</sub><br>
+      <i>McGill Polaris Flight, spun off from the McGill Rocket Team · Co-founder and chief engineer, mechanical and controls</i><br><br>
+      One servo drives both canards through bevel gears, and a solenoid clutch returns them to neutral on any fault or loss of power. The PI roll controller was checked in 6-DOF simulation. The design is complete. The Launch Canada 2026 flight was postponed because we could not get insurance for the launch, and it is rescheduled for Winter 2027.<br>
+      <sub>Mechanism design · fail-safe design · servo sizing · PI control · 6-DOF simulation</sub>
+    </td>
+  </tr>
+</table>
+
+## Additional projects
 
 Earlier coursework and research, each with a short summary and the full report.
 
@@ -86,12 +100,12 @@ Earlier coursework and research, each with a short summary and the full report.
 
 ## Skills
 
-- **CAD:** Siemens NX, SolidWorks, CATIA
-- **Analysis:** Nastran, Ansys and Abaqus (FEA); classical laminate theory; topology optimization
-- **Programming:** MATLAB, Python, C++ (Arduino), Excel
-- **Flight and aerodynamics:** OpenRocket, RocketPy, XFOIL, AAA (Advanced Aircraft Analysis)
-- **Manufacturing:** prepreg and wet layup, vacuum consolidation and oven cure, composite tooling, honeycomb sandwich panels, design for CNC machining, additive manufacturing
-- **Languages:** English, French, Spanish, Portuguese, Arabic
+- CAD: Siemens NX, SolidWorks, CATIA
+- Analysis: Nastran, Ansys and Abaqus (FEA); classical laminate theory; topology optimization
+- Programming: MATLAB, Python, C++ (Arduino), Excel
+- Flight and aerodynamics: OpenRocket, RocketPy, XFOIL, AAA (Advanced Aircraft Analysis)
+- Manufacturing: prepreg and wet layup, vacuum consolidation and oven cure, composite tooling, honeycomb sandwich panels, design for CNC machining, additive manufacturing
+- Languages: English, French, Spanish, Portuguese, Arabic
 
 ## Contact
 
