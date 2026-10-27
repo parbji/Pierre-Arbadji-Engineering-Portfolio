@@ -3,7 +3,7 @@
 # Polaris Flight: canard roll control for a high-power rocket
 
 McGill Polaris Flight · Launch Canada 2026, Technology Development category · September 2025 to present<br>
-Co-founder and chief engineer (mechanical and controls) · Spun off from the McGill Rocket Team and supported by the McGill Institute for Aerospace Engineering
+Co-founder and Mechanical Lead · Spun off from the McGill Rocket Team and funded by the McGill Institute for Aerospace Engineering in summer 2025
 
 Full report: [Preliminary design report for Launch Canada 2026](Polaris-Flight-Preliminary-Design-Report.pdf) (51 pages, January 2026)
 
