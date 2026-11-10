@@ -1,0 +1,46 @@
+Sub ImportNewExport()
+    Dim f As Variant
+    Dim wb As Workbook
+    Dim raw As Worksheet, trk As Worksheet, hist As Worksheet
+    Dim r As Long
+    Set raw = ThisWorkbook.Sheets("RawData")
+    Set trk = ThisWorkbook.Sheets("Tracker")
+    f = Application.GetOpenFilename("CSV files (*.csv), *.csv", , "Pick the new employee export")
+    If f = False Then Exit Sub
+    Application.ScreenUpdating = False
+    trk.Range("A2:A10000").ClearContents
+    trk.Range("A2:A10000").Value = raw.Range("M2:M10000").Value
+    trk.Range("J1").Value = "Last import: " & Format(Now, "yyyy-mm-dd hh:mm")
+    Set wb = Workbooks.Open(Filename:=f, Local:=True)
+    raw.Cells.ClearContents
+    wb.Sheets(1).UsedRange.Copy raw.Range("A1")
+    wb.Close SaveChanges:=False
+    Application.Calculate
+    On Error Resume Next
+    Set hist = ThisWorkbook.Sheets("History")
+    On Error GoTo 0
+    If hist Is Nothing Then
+        Set hist = ThisWorkbook.Sheets.Add(After:=trk)
+        hist.Name = "History"
+        hist.Range("A1:E1").Value = Array("Import date", "Number joined", "Number left", "Joined", "Left")
+    End If
+    r = hist.Cells(hist.Rows.Count, 1).End(xlUp).Row + 1
+    hist.Cells(r, 1).Value = Format(Now, "yyyy-mm-dd hh:mm")
+    hist.Cells(r, 2).Value = trk.Range("H2").Value
+    hist.Cells(r, 3).Value = trk.Range("H3").Value
+    hist.Cells(r, 4).Value = ListFrom(trk.Range("D2"))
+    hist.Cells(r, 5).Value = ListFrom(trk.Range("E2"))
+    trk.Activate
+    Application.ScreenUpdating = True
+    MsgBox "Done." & vbNewLine & "Joined: " & trk.Range("H2").Value & vbNewLine & "Left: " & trk.Range("H3").Value, vbInformation
+End Sub
+
+Function ListFrom(c As Range) As String
+    Dim s As String
+    Do While Len(c.Text) > 0
+        If s <> "" Then s = s & "; "
+        s = s & c.Text
+        Set c = c.Offset(1)
+    Loop
+    ListFrom = Left(s, 32000)
+End Function
